@@ -1,0 +1,40 @@
+
+#######################################################
+Plattform auf der es sinnig wäre, zu programmieren:
+
+Genereller Link:
+https://ionicframework.com/
+
+Getting started Link:
+https://ionicframework.com/getting-started/
+
+Doku:
+https://ionicframework.com/docs/
+
+Zu beherrschende Sprachen für das Framework:
+HTML5, CSS, Sass, JavaScript
+
+#######################################################
+
+Serverdienstleistungen und Dienste:
+
+vServer von Hetzner:
+https://www.hetzner.de/cloud?country=de
+
+Dabei das billigste Modell für 2,96 (netto!) im Monat reicht vollkommen aus.
+
+OS: Debian
+
+Dienste die für den Server benötigt werden: MariaDB (PHPMyAdmin), PHP, npm, Webmin, Monit / Icinga2
+
+#######################################################
+
+Nächste ToDos:
+- Einlernen in git
+- Einlernen in Ionic
+- Umfassendes Lastenheft
+- Umsetzbarkeitsanaylse und Erstellen eines Pflichtenheftes
+
+...dann beginnt erst der große Spaß ;)
+
+
